@@ -1,0 +1,29 @@
+.btn{
+    background-color: rgb(170, 216, 101);
+    color: black;
+    margin-top: 200px;
+    height: 40px;
+    width: 170px;
+
+
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+}
+table{
+    width: 70vh;
+    height: 60vh;
+    text-align: center;
+background-color: rgb(163, 160, 160); 
+font-weight: bold;
+margin-top: 50px;
+}
+body{
+    background-color: rgb(64, 60, 60);
+}
+h3{
+    color: white;
+}
